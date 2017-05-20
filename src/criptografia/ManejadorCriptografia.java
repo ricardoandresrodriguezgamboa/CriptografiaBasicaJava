@@ -59,8 +59,4 @@ public class ManejadorCriptografia {
         }
         
     }
-    
-    public void criptografiaAsimetrica(){
-        
-    }
 }

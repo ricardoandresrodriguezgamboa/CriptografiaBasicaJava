@@ -17,7 +17,6 @@ public class Aplicacion {
         menu.append("Menu\n");
         menu.append("Seleccione una opción\n");
         menu.append("1. Criptografía Simétrica\n");
-        menu.append("2. Criptografía Asimétrica (RSA)\n");
         menu.append("9. Salir\n");
 
         int option;
@@ -33,10 +32,6 @@ public class Aplicacion {
                 
                 case 1:
                     manejador.criptografiaSimetrica();
-                    break;
-                
-                case 2:
-                    
                     break;
                     
                 case 9:
